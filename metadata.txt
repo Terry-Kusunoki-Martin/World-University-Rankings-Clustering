@@ -1,0 +1,2 @@
+max_num_students: 379231
+max_stud_staff_ratio: 162.600000
